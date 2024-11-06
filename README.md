@@ -54,16 +54,16 @@ These findings indicate that while some progress is being made, much work remain
 ## Recommendations
 
 To effectively curb CO₂ emissions, a multi-layered approach is recommended:
-1. Policy Enhancement: Governments should continue to strengthen emission standards, focusing on high-emission sectors like energy and transportation. Policies encouraging renewable energy adoption and sustainable urban planning can reduce emissions substantially.
-2. Corporate Accountability: Corporations, particularly in manufacturing and logistics, should commit to sustainability goals, such as reducing emissions by shifting to renewable energy sources or optimizing supply chains for lower carbon output.
-3. Public Engagement: Increasing public awareness through education on sustainable practices can drive individual contributions to emissions reduction and support for eco-friendly policies.
+1. **Policy Enhancement:** Governments should continue to strengthen emission standards, focusing on high-emission sectors like energy and transportation. Policies encouraging renewable energy adoption and sustainable urban planning can reduce emissions substantially.
+2. **Corporate Accountability:** Corporations, particularly in manufacturing and logistics, should commit to sustainability goals, such as reducing emissions by shifting to renewable energy sources or optimizing supply chains for lower carbon output.
+3. **Public Engagement:** Increasing public awareness through education on sustainable practices can drive individual contributions to emissions reduction and support for eco-friendly policies.
 
 ## Limitations
 
 This analysis has some limitations:
-1. Data Gaps: Inconsistent or missing data for some countries and sectors may impact the accuracy of the trends observed, especially in emerging economies.
-2. Sectoral Oversimplification: The dataset generalizes certain sectors, which may overlook nuances in emissions by sub-sectors.
-3. Time Lag: Data often has a lag in availability, so recent trends, especially post-pandemic, might not fully reflect current shifts or new policy impacts.
+1. **Data Gaps:** Inconsistent or missing data for some countries and sectors may impact the accuracy of the trends observed, especially in emerging economies.
+2. **Sectoral Oversimplification:** The dataset generalizes certain sectors, which may overlook nuances in emissions by sub-sectors.
+3. **Time Lag:** Data often has a lag in availability, so recent trends, especially post-pandemic, might not fully reflect current shifts or new policy impacts.
 
 ## Conclusion
 The past decade has shown both progress and persistent challenges in reducing CO₂ emissions globally. This analysis highlights the critical role of targeted policies and corporate responsibility in addressing climate change, particularly in the energy and transportation sectors. Moving forward, a balanced approach that supports economic growth while minimizing environmental impact will be essential to achieving a sustainable future.
