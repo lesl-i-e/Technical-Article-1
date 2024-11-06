@@ -5,7 +5,7 @@ In recent years, climate change has become a prominent issue that governments, c
 
 ## Data Sources
 
-- Global Carbon Project (GCP): Managed by the Global Carbon Atlas, this dataset includes detailed CO₂ emissions data by country and sector (e.g., power, transportation) over recent decades. It tracks emissions trends and fossil fuel use, helping assess long-term climate policy impacts. [Access the data here](https://globalcarbonatlas.org)
+- Our World Data: This dataset includes detailed CO₂ emissions data by country and sector (e.g., power, transportation) over recent decades. It tracks emissions trends and fossil fuel use, helping assess long-term climate policy impacts. [Access the data here](https://ourworldindata.org/co2-emissions)
 
 - EDGAR (Emissions Database for Global Atmospheric Research): Produced by the European Commission, EDGAR provides global CO₂ and greenhouse gas data across sectors like energy and agriculture. Available from 1970 onward, it supports analysis of emission trends and policy effects. [Access the data here](https://edgar.jrc.ec.europa.eu/report_2024)
 
@@ -39,7 +39,12 @@ North America	-7%
 Europe	-5%
 Asia	+12%
 Africa	+8%
-Figure 1: Percentage Change in CO₂ Emissions by Region (2014-2023)
+Percentage Change in CO₂ Emissions by Region (2014-2023)
+
+![co2-fossil-plus-land-use](https://github.com/user-attachments/assets/b93da03a-2a15-4742-ae85-bf3ce2a0bb02)
+
+![annual-co-emissions-by-region](https://github.com/user-attachments/assets/528e582b-43a8-47d3-bd53-c9c7287af4c5)
+
 
 ## Implications for Policy and Corporate Action
 These findings indicate that while some progress is being made, much work remains to meet global climate targets. Policymakers should consider expanding renewable energy subsidies, tightening transportation emissions regulations, and supporting green technology development, especially in high-growth regions. For corporations, a commitment to sustainable practices in energy use and transportation could significantly reduce their carbon footprint, aligning business goals with environmental stewardship.
