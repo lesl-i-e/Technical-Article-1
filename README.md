@@ -33,13 +33,15 @@ Developed regions like Europe and North America have managed to reduce CO₂ emi
 3. Sector-Specific Insights: Energy and Transportation as Major Contributors
 Across all regions, the energy and transportation sectors account for over 70% of total CO₂ emissions. While some progress has been made in reducing emissions from energy production, especially through the adoption of renewables, transportation remains a significant challenge. Road transportation alone accounts for roughly 20% of emissions, underscoring the need for innovations in electric and alternative fuel vehicles.
 
-## Region	CO₂ Emissions Change (2014-2023)
+| Region         | CO₂ Emissions Change (2014-2023) |
+|----------------|----------------------------------|
+| North America  | -7%                              |
+| Europe         | -5%                              |
+| Asia           | +12%                             |
+| Africa         | +8%                              |
 
-North America	-7%
-Europe	-5%
-Asia	+12%
-Africa	+8%
 Percentage Change in CO₂ Emissions by Region (2014-2023)
+
 
 ![co2-fossil-plus-land-use](https://github.com/user-attachments/assets/b93da03a-2a15-4742-ae85-bf3ce2a0bb02)
 
